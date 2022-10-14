@@ -1070,6 +1070,8 @@ h4 {
 
 .img-responsive{
     margin: auto;
+    width: 24rem;
+    height: 24rem;
 }
 
 
